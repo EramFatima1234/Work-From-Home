@@ -1,0 +1,5 @@
+name: related block progamattically
+description: Building related block module
+type: module
+core: 8.x
+package: Erams Module

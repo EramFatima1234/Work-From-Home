@@ -1,0 +1,7 @@
+dropdown:
+  path: 'depend'
+  defaults:
+    _title: 'Sample Dependent Dropdown'
+    _form: 'Drupal\dependent_dropdown\MyForm'
+  requirements:
+    _permission: 'access content'

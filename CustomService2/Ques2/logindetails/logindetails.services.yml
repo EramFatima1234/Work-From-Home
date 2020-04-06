@@ -1,0 +1,4 @@
+services:
+  user_service:
+    class: Drupal\logindetails\CurrentUser
+    arguments: ['@current_user']

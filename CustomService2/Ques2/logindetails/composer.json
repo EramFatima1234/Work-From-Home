@@ -1,0 +1,13 @@
+{
+    "name": "logindetails",
+    "type": "drupal-module",
+    "description": "Logs out User details like Display Name, Roles and LastLogin Timestamp",
+    "keywords": [
+    ],
+    "homepage": "https://www.drupal.org/project/logindetails",
+    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://www.drupal.org/project/issues/logindetails",
+        "source": "http://cgit.drupalcode.org/logindetails",
+    },
+}

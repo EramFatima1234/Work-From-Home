@@ -1,0 +1,7 @@
+logindetails:
+  path: 'logindetails'
+  defaults:
+    _controller: '\Drupal\logindetails\LoginController::run'
+    _title: 'User Details Here'
+  requirements:
+    _permission: 'access content'

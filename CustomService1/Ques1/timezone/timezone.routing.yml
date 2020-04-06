@@ -1,0 +1,7 @@
+timezone:
+  path: 'datediff'
+  defaults:
+    _controller: '\Drupal\timezone\TimezoneController::run'
+    _title: 'Difference Between dates'
+  requirements:
+    _permission: 'access content'

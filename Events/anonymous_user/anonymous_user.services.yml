@@ -1,0 +1,6 @@
+services:
+  anonymous_user_events_subscriber:
+    class: Drupal\anonymous_user\EventSubscriber
+    arguments: ['@current_user']
+    tags:
+      - { name: event_subscriber }

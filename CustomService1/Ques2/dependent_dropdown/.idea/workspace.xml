@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62bd743d-99e9-43f9-bdd9-4cf23b12d25d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DrupalConfiguration" enabled="true" version="8">
+    <drupalPath>$PROJECT_DIR$/../../..</drupalPath>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../../core" />
+      <path value="$PROJECT_DIR$/../register" />
+      <path value="$PROJECT_DIR$/../LoginDetails" />
+      <path value="$PROJECT_DIR$/../timezone_service" />
+      <path value="$PROJECT_DIR$/../../contrib" />
+      <path value="$PROJECT_DIR$/../../../vendor" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1a5Xt6RhI6wS5eo4b5qJ4qgs2ME" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62bd743d-99e9-43f9-bdd9-4cf23b12d25d" name="Default Changelist" comment="" />
+      <created>1586026639719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586026639719</updated>
+      <workItem from="1586026641608" duration="2270000" />
+      <workItem from="1586086831757" duration="327000" />
+      <workItem from="1586088032705" duration="5669000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Drupal" timestamp="1586026659798">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Drupal/0.0.1440.900@0.0.1440.900" timestamp="1586026659798" />
+  </component>
+</project>

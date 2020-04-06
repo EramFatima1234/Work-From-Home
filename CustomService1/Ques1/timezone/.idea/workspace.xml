@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b81f6fe7-cb5b-41ab-9232-fbbc34814bca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DrupalConfiguration" enabled="true" version="8">
+    <drupalPath>$PROJECT_DIR$/../../..</drupalPath>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../../core" />
+      <path value="$PROJECT_DIR$/../custom" />
+      <path value="$PROJECT_DIR$/../article" />
+      <path value="$PROJECT_DIR$/../myservice" />
+      <path value="$PROJECT_DIR$/../logindetails" />
+      <path value="$PROJECT_DIR$/../login_details" />
+      <path value="$PROJECT_DIR$/../anonymous_user" />
+      <path value="$PROJECT_DIR$/../../contrib" />
+      <path value="$PROJECT_DIR$/../../../vendor" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1a4w3gWpo1bzE0c9fpBeP3erKzQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b81f6fe7-cb5b-41ab-9232-fbbc34814bca" name="Default Changelist" comment="" />
+      <created>1586007976955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586007976955</updated>
+      <workItem from="1586007979070" duration="3340000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="387" y="210" width="649" height="373" key="NewPhpClassDialog" timestamp="1586008283871">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="387" y="210" width="649" height="373" key="NewPhpClassDialog/67.27.1299.741@67.27.1299.741" timestamp="1586008283871" />
+    <state x="512" y="322" width="399" height="149" key="NewPhpFileDialog" timestamp="1586008415533">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="512" y="322" width="399" height="149" key="NewPhpFileDialog/67.27.1299.741@67.27.1299.741" timestamp="1586008415533" />
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1586007982668">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1586007982668" />
+  </component>
+</project>

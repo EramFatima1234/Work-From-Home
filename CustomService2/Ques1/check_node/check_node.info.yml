@@ -1,0 +1,5 @@
+name: Check Nodes
+type: module
+description: A Module that will check whether a Node exists or not.
+core: 8.x
+package: Erams Modules 

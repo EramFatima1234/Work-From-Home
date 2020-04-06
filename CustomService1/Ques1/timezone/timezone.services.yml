@@ -1,0 +1,4 @@
+services:
+  my_user_service:
+    class: Drupal\timezone\UserService
+    arguments: ['@current_user']

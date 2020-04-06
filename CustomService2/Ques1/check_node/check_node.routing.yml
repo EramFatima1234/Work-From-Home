@@ -1,0 +1,9 @@
+check_node:
+  path: 'check/node/{nid}/data'
+  defaults:
+    _controller: '\Drupal\check_node\NodeController::run'
+    _title: 'Check Nodes'
+  requirements:
+    _permission: 'access content'
+
+

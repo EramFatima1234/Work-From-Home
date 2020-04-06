@@ -1,0 +1,35 @@
+The feof() function in PHP is an inbuilt function which is used to test for the end-of-file on a file pointer. It checks if the “end-of-file” has been reached or not. The feof() function is used for looping through the content of a file if the size of content is not known beforehand.
+
+The feof() function returns True if end-of-file has been reached or if an error has occurred. Else it returns False.The feof() function in PHP is an inbuilt function which is used to test for the end-of-file on a file pointer. It checks if the “end-of-file” has been reached or not. The feof() function is used for looping through the content of a file if the size of content is not known beforehand.
+
+The feof() function returns True if end-of-file has been reached or if an error has occurred. Else it returns False.vThe feof() function in PHP is an inbuilt function which is used to test for the end-of-file on a file pointer. It checks if the “end-of-file” has been reached or not. The feof() function is used for looping through the content of a file if the size of content is not known beforehand.
+
+The feof() function returns True if end-of-file has been reached or if an error has occurred. Else it returns False.The feof() function in PHP is an inbuilt function which is used to test for the end-of-file on a file pointer. It checks if the “end-of-file” has been reached or not. The feof() function is used for looping through the content of a file if the size of content is not known beforehand.
+
+The feof() function returns True if end-of-file has been reached or if an error has occurred. Else it returns False.The feof() function in PHP is an inbuilt function which is used to test for the end-of-file on a file pointer. It checks if the “end-of-file” has been reached or not. The feof() function is used for looping through the content of a file if the size of content is not known beforehand.
+
+The feof() function returns True if end-of-file has been reached or if an error has occurred. Else it returns False.The feof() function in PHP is an inbuilt function which is used to test for the end-of-file on a file pointer. It checks if the “end-of-file” has been reached or not. The feof() function is used for looping through the content of a file if the size of content is not known beforehand.
+
+The feof() function returns True if end-of-file has been reached or if an error has occurred. Else it returns False.The feof() function in PHP is an inbuilt function which is used to test for the end-of-file on a file pointer. It checks if the “end-of-file” has been reached or not. The feof() function is used for looping through the content of a file if the size of content is not known beforehand.
+
+The feof() function returns True if end-of-file has been reached or if an error has occurred. Else it returns False.The feof() function in PHP is an inbuilt function which is used to test for the end-of-file on a file pointer. It checks if the “end-of-file” has been reached or not. The feof() function is used for looping through the content of a file if the size of content is not known beforehand.
+
+The feof() function returns True if end-of-file has been reached or if an error has occurred. Else it returns False.vThe feof() function in PHP is an inbuilt function which is used to test for the end-of-file on a file pointer. It checks if the “end-of-file” has been reached or not. The feof() function is used for looping through the content of a file if the size of content is not known beforehand.
+
+The feof() function returns True if end-of-file has been reached or if an error has occurred. Else it returns False.The feof() function in PHP is an inbuilt function which is used to test for the end-of-file on a file pointer. It checks if the “end-of-file” has been reached or not. The feof() function is used for looping through the content of a file if the size of content is not known beforehand.
+
+The feof() function returns True if end-of-file has been reached or if an error has occurred. Else it returns False.The feof() function in PHP is an inbuilt function which is used to test for the end-of-file on a file pointer. It checks if the “end-of-file” has been reached or not. The feof() function is used for looping through the content of a file if the size of content is not known beforehand.
+
+The feof() function returns True if end-of-file has been reached or if an error has occurred. Else it returns False.The feof() function in PHP is an inbuilt function which is used to test for the end-of-file on a file pointer. It checks if the “end-of-file” has been reached or not. The feof() function is used for looping through the content of a file if the size of content is not known beforehand.
+
+The feof() function returns True if end-of-file has been reached or if an error has occurred. Else it returns False.The feof() function in PHP is an inbuilt function which is used to test for the end-of-file on a file pointer. It checks if the “end-of-file” has been reached or not. The feof() function is used for looping through the content of a file if the size of content is not known beforehand.
+
+The feof() function returns True if end-of-file has been reached or if an error has occurred. Else it returns False.The feof() function in PHP is an inbuilt function which is used to test for the end-of-file on a file pointer. It checks if the “end-of-file” has been reached or not. The feof() function is used for looping through the content of a file if the size of content is not known beforehand.
+
+The feof() function returns True if end-of-file has been reached or if an error has occurred. Else it returns False.The feof() function in PHP is an inbuilt function which is used to test for the end-of-file on a file pointer. It checks if the “end-of-file” has been reached or not. The feof() function is used for looping through the content of a file if the size of content is not known beforehand.
+
+The feof() function returns True if end-of-file has been reached or if an error has occurred. Else it returns False.The feof() function in PHP is an inbuilt function which is used to test for the end-of-file on a file pointer. It checks if the “end-of-file” has been reached or not. The feof() function is used for looping through the content of a file if the size of content is not known beforehand.
+
+The feof() function returns True if end-of-file has been reached or if an error has occurred. Else it returns False.The feof() function in PHP is an inbuilt function which is used to test for the end-of-file on a file pointer. It checks if the “end-of-file” has been reached or not. The feof() function is used for looping through the content of a file if the size of content is not known beforehand.
+
+The feof() function returns True if end-of-file has been reached or if an error has occurred. Else it returns False.

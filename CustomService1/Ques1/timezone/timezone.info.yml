@@ -1,0 +1,5 @@
+name:  TimeDiff
+type: module
+description: 'Find difference between two dates'
+core: 8.x
+package: Erams Modules
